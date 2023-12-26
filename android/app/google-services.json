@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106813810965",
+    "project_id": "dealcard-64837",
+    "storage_bucket": "dealcard-64837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106813810965:android:fc004f238ed5a71b6a211c",
+        "android_client_info": {
+          "package_name": "com.dealcardapp.dealcard1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTFX_BiwAwJatsY6_Oq_2U-DNw-ChvGWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

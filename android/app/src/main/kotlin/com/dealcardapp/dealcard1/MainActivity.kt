@@ -1,0 +1,6 @@
+package com.dealcardapp.dealcard1
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
